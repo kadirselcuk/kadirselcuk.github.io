@@ -1,1 +1,1 @@
-[! [Kadir Selçuk'un DEV Topluluğu Profili] (https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)] (https://dev.to/kadirselcuk)
+[![Kadir Selçuk'un DEV Topluluğu Profili](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/kadirselcuk)
